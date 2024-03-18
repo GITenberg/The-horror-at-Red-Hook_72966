@@ -1,5 +1,8 @@
 _repo: The-horror-at-Red-Hook_72966
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72966-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72966#The-horror-at-Red-Hook
 gutenberg_issued: '2024-02-15'
 gutenberg_type: Text
 identifiers:
